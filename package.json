@@ -1,23 +1,26 @@
 {
   "name": "booknook-frontend",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "next start"
   },
   "dependencies": {
-    "next": "16.4.3",
-    "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "better-auth": "^1.7.15",
+    "framer-motion": "^12.43.0",
+    "mongodb": "^6.21.0",
+    "next": "^16.4.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.7.0",
+    "sonner": "^2.0.8",
+    "swiper": "^14.4.0"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "^4",
-    "babel-plugin-react-compiler": "1.0.0",
-    "eslint": "^9",
-    "eslint-config-next": "16.4.3",
-    "tailwindcss": "^4"
+    "@tailwindcss/postcss": "^4.3.3",
+    "daisyui": "^5.7.50",
+    "tailwindcss": "^4.3.3"
   }
 }
