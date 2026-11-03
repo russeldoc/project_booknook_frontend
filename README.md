@@ -2,8 +2,10 @@
 
 **A small online library. Add a book, borrow a book, return a book.**
 
-**Live site:** https://your-booknook-site.vercel.app  <!-- replace with your deployed client URL -->
-**API (backend repo):** https://your-booknook-api.vercel.app  <!-- replace with your deployed server URL -->
+**Live site:** https://booknook-frontend-tan.vercel.app  
+
+**API (backend repo):** https://booknook-backend-one.vercel.app  
+
 
 ## Features
 
